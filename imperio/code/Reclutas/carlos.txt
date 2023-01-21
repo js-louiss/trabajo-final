@@ -1,0 +1,4 @@
+Nombre del Recluta: carlos
+peso: 89
+altura: 150
+mision: grupo de asalto armado

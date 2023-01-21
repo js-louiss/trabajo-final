@@ -1,0 +1,4 @@
+1.0.0: creacion y primera ejecucion sin errores
+1.1.0: adicion de sonidos y el apartado de revisar datos, solucion de erroes en la asignacion de mision
+1.2.1: solucion de errores y creacion de mensajes de error para imputs vacios o selecciones invalidas
+1.3.1: se añaden capturadores de erroes para todo
