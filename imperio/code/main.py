@@ -6,8 +6,6 @@ from ingresoreclutas import*
 from verdatos import*
 from shutdowncode import*
 
-for i in tqdm(range(0, 100), desc ="comprobando la intalacion"): 
-    sleep(.1) 
 #se "invoca" la funcion desde el modulo claves a este 
 start()
 while True:
